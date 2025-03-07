@@ -24,6 +24,6 @@
 - Used Python, Scikit-Learn, and deployed on Flask.
 
 ## 📫 Contact Me
-- LinkedIn: [linkedin.com/in/ashalakshmi-va] (https://www.linkedin.com/in/ashalakshmi-va/)
+- LinkedIn: [linkedin.com/in/ashalakshmi-va](https://www.linkedin.com/in/ashalakshmi-va/)
 - GitHub: [github.com/ashalakshmi-va](https://github.com/ashalakshmi-va)
 - Email: ashasooryaroop@gmail.com
